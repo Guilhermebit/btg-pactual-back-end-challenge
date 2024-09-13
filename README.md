@@ -3,7 +3,7 @@
 [![CI](https://github.com/Guilhermebit/btg-pactual-back-end-challenge/actions/workflows/ci.yml/badge.svg)](https://github.com/Guilhermebit/btg-pactual-back-end-challenge/actions/workflows/ci.yml)
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/Guilhermebit/btg-pactual-back-end-challenge/blob/master/LICENSE)
 
-Microservice developed to address the [BTG Pactual challenge](./problem.md). The challenge involves creating a microservice that:
+Microservice developed to address the [BTG Pactual challenge](./PROBLEM.md). The challenge involves creating a microservice that:
 - Consumes data from a queue
 - Stores this data in a database
 - Provides functionality to:
