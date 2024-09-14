@@ -11,6 +11,13 @@ Microservice developed to address the [BTG Pactual challenge](./PROBLEM.md). The
     - Get the total number of orders for a customer
     - List orders made by a customer
 
+
+## This project has the following architecture: 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e8a7f036-b34c-4ca8-ac93-460d83e64bf3" alt="Microservice Architecture">
+</p>
+
+
 ## Tecnologies
 - ✅ Java 21
 - ✅ SpringBoot
