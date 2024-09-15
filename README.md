@@ -14,9 +14,8 @@ Microservice developed to address the [BTG Pactual challenge](./PROBLEM.md). The
 
 ## This project has the following architecture: 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e8a7f036-b34c-4ca8-ac93-460d83e64bf3" alt="Microservice Architecture">
+  <img src="https://github.com/user-attachments/assets/05fff4db-31ea-49a1-9162-0cc5cc1395b4" alt="Microservice Architecture">
 </p>
-
 
 ## Tecnologies
 - ✅ Java 21
